@@ -1,4 +1,5 @@
-### Hi there 👋
+# Halo Semua  
+Perkenalkan nama saya **Nurhadi Ghifari Ramadhan**.
 
 <!--
 **nurhadighi24/nurhadighi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
