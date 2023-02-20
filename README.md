@@ -1,6 +1,13 @@
 # Halo Semua  
 Perkenalkan nama saya **Nurhadi Ghifari Ramadhan**.
 
+<p align="left">
+<a href="https://github.com/nurhadighi24">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nurhadighi24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nurhadighi24&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **nurhadighi24/nurhadighi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
